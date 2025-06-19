@@ -5,3 +5,4 @@ scipy
 pillow
 pandas
 plotly
+tensorflow-cpu==2.15.0
